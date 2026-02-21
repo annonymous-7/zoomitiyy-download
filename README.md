@@ -1,0 +1,1 @@
+Hello reader. This is the download for my app. This is just the download but, you can reach out for snippets of the source code. I will not be providng source code simply because that is private and could leak valuable code which could be used by competaters to use against me. 
